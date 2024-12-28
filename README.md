@@ -1,4 +1,4 @@
-# Hand Gesture-Controlled Virtual Mouse
+# ai-virtual-mouse-using-python
 
 ## Overview
 This project demonstrates a computer mouse controlled using hand gestures, offering a touch-free interaction mechanism. The solution leverages OpenCV, MediaPipe, and Python to detect and interpret hand movements and gestures to emulate mouse functions such as cursor movement, left click, right click, and more.
