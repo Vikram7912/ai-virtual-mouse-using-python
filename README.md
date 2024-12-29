@@ -68,9 +68,9 @@ virtual-mouse/
 
 ## Contact
 For any queries or suggestions, feel free to reach out:
-- **Name**: Vikram
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- Name: Vikram
+- Email: vp270644@gmail.com
+- GitHub: Vikram7912
 
 ---
 
